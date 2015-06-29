@@ -1,6 +1,6 @@
 ﻿@charset "utf-8";
 /*********************************************
-* CSS Document for lagou.com 宏益劳务招聘
+* CSS Document for Hongyi.com 宏益劳务招聘
 * Start Time 2013-06-14
 * Author : Vee
 * Contect : vee@3wcoffee.com
@@ -1965,9 +1965,9 @@ ul.my_collections li i{float:right;width:1px;height:24px;background: url(img/arr
 .user_bindLogin input[type="submit"]{display:block;padding:5px 13px;background:#019875;color:#fff;font-size:18px;margin-top:25px;margin-bottom:32px;}
 .user_bindLogin label{margin-top:12px; display:block;height:30px;width:400px;background: url(img/radio.png) no-repeat 0 3px;cursor:pointer;font-size:18px;}
 .user_bindLogin label.checked{background:url(img/radioSel.png) no-repeat 0 3px;}
-.user_hasLagouAccountForm{ padding-top:15px; }.user_noLagouAccount .user_modify{margin-top:0px;}
-.user_hasAccountform{ padding-left:30px;padding-bottom:10px;*padding-bottom:40px;}.user_noLagouAccount{ padding-top:15px;*padding-top:0px;  padding-bottom:10px;}
-#user_hasLagouAccountForm{border-bottom:1px dashed #d6d6d6}
+.user_hasHongyiAccountForm{ padding-top:15px; }.user_noHongyiAccount .user_modify{margin-top:0px;}
+.user_hasAccountform{ padding-left:30px;padding-bottom:10px;*padding-bottom:40px;}.user_noHongyiAccount{ padding-top:15px;*padding-top:0px;  padding-bottom:10px;}
+#user_hasHongyiAccountForm{border-bottom:1px dashed #d6d6d6}
 #user_NoAccount::selection ,#user_HasAccount::selection {background:transparent;}
 /*找工作还是招人*/
 .register_radio input[type="radio"]{display:block;}
@@ -1979,8 +1979,8 @@ ul.my_collections li i{float:right;width:1px;height:24px;background: url(img/arr
 .user_firstBinWarn{ width:720px;background:#faf3e1;height:28px;font-size:16px;color:#555;margin-left:15px;padding-top:14px;}
 .user_firstBinWarn em{ display:inline-block;background:url(img/user_warn.png) no-repeat;width:18px;height:17px;}
 .user_noAccountform label.user_modifyYangshi{;font-size:14px;display:block;padding-left:23px;width:100%;height:30px;}
-.user_noLagouAccount .agreeNotice{ background:none;font-size:14px;margin-top:10px;}
-.user_noLagouAccount label.agreeNotice.checked{ background:none;}
+.user_noHongyiAccount .agreeNotice{ background:none;font-size:14px;margin-top:10px;}
+.user_noHongyiAccount label.agreeNotice.checked{ background:none;}
 .user_noAccountform label.user_modifyYangshi input[type="checkbox"]{display:none;}
 .user_noAccountform label.user_modifyYangshi a{color:#019875}
 #user_saveRegAccount{ padding:5px 24px;display:block;}
